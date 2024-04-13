@@ -41,3 +41,4 @@ This app relies on the following dependencies:
 
 Ensure that the API endpoint for predicting chronic alcoholism is correctly configured in the code (`Home.dart`). Update the URL variable (`url`) to match the address of your backend server.
 
+![Screen Shots](Image.png)
